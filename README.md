@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Claude! I'm a front end dev experienced in Swift, HTML, and CSS.
+My work here is a bunch of forks and branches while I study @ 🎓NorQuest MLAD
+I'm learning the ins and outs of data cleaning and model training.
+
+Favourite things: fiber arts 🧶, tarot 🃏, flowers 🌺, and star seeing 🌠
 
 <!--
 **ccordonp/ccordonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
